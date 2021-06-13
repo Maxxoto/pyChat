@@ -11,7 +11,7 @@ a = pyf.renderText("UDP Chat Pemrograman Jaringan")
 os.system("tput setaf 3")
 print(a)
 
-HOST = "127.0.0.1"
+HOST = "165.22.251.42"  # Ganti saja sesuai server chatmu
 PORT = 8072
 CLIENT_PORT = 8081
 clients = []

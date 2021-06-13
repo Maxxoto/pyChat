@@ -13,7 +13,7 @@ print(a)
 
 HOST = "127.0.0.1"  # Jangan dirubah
 PORT = 8081  # Jangan dirubah
-SERVER_HOST = "127.0.0.1"  # Dirubah sesuai IP Server
+SERVER_HOST = "165.22.251.42"  # Dirubah sesuai IP Server
 SERVER_PORT = 8072  # Jangan dirubah
 
 print("Initializing....")
